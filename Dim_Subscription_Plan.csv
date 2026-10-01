@@ -1,0 +1,5 @@
+plan_id,plan_name,billing_cycle,monthly_fee
+1,Starter Monthly,Monthly,49.0
+2,Pro Monthly,Monthly,149.0
+3,Enterprise Monthly,Monthly,499.0
+4,Annual Enterprise,Annual,4990.0

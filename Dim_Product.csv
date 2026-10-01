@@ -1,0 +1,16 @@
+product_id,product_name,category,tier,base_price
+1,Analytics Cloud Basic,Software,Starter,49.0
+2,Analytics Cloud Pro,Software,Professional,149.0
+3,Analytics Cloud Enterprise,Software,Enterprise,499.0
+4,Data Connector Plugin,Add-on,Standard,19.0
+5,Warehouse ETL Bridge,Add-on,Standard,39.0
+6,Executive Dashboard Suite,Software,Professional,199.0
+7,Security Audit Add-on,Security,Enterprise,99.0
+8,API Extra Requests (100k),Usage,Standard,15.0
+9,Single Sign-On Module,Security,Enterprise,79.0
+10,Custom Branding Pack,Add-on,Starter,25.0
+11,Dedicated Support Tier,Service,Enterprise,299.0
+12,Automated Reporting Bot,Add-on,Professional,59.0
+13,Real-time Alerts Engine,Add-on,Professional,45.0
+14,Cold Storage Archive,Storage,Starter,10.0
+15,Predictive ML Add-on,Software,Enterprise,349.0
